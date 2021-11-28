@@ -8,3 +8,11 @@ com/aor/numbers/ListDeduplicator.java
  com.aor.numbers.ListDeduplicator
 com/aor/numbers/GenericListSorter.java
  com.aor.numbers.GenericListSorter
+com/aor/numbers/GenericListFilter.java
+ com.aor.numbers.GenericListFilter
+com/aor/numbers/DivisibleByFilter.java
+ com.aor.numbers.DivisibleByFilter
+com/aor/numbers/ListFilterer.java
+ com.aor.numbers.ListFilterer
+com/aor/numbers/PositiveFilter.java
+ com.aor.numbers.PositiveFilter
